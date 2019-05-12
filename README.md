@@ -7,10 +7,7 @@
 <body>
 <h1><strong>신동훈(a.k.a. <u><a href="https://namu.wiki/w/%EB%8B%B9%EB%82%98%EA%B7%80" target="_blank">동키)</a></u>에 대하여</strong></h1>
 
-<img src="동훈킴.jpg" width="150">
-<img src="동훈킴2.jpg" width="150">
-<img src="동훈킴3.jpg" width="150">
-<img src="동훈킴4.jpg" width="150">
+<img src="동훈킴.jpg" width="150"><img src="동훈킴2.jpg" width="150"><img src="동훈킴3.jpg" width="150"><img src="동훈킴4.jpg" width="150">
 <p>
   기원전 500년, 이 세상에는 당나귀 한 마리가 있었다. 말 그대로 그냥 존재하고 있었다. 그러나 어느 날 이 당나귀는 아주 대담하고 건방진 생각을 했는데, 그는
   인간이 되고 싶었던 것이다. 하지만 주위에 그 어떤 것도 존재하지 않던 흑암 속에서 당나귀는 정처 없이 떠돌 뿐이었다. 좌절에 빠져 있을 때 갑자기 목소리가 들렸다, "나귀야"
