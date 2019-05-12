@@ -45,6 +45,4 @@
 </p>
 </body>
 
-<style>
-body{background-color: grey}
 </html>
