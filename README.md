@@ -1,7 +1,6 @@
 # ACPU1
 <html>
 <head>
-  <title>동키동키 신동훈</title>
 </head>
 
 <body>
